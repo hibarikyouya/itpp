@@ -1,0 +1,17 @@
+Please, execute ./odjo.py to display the usage.
+
+A search will create :
+	-*- a "pdb_and_png" directory that will contain PDB and PNG files
+	-*- a "graph.png" file
+	-*- a "matrix.csv" file
+
+WARNING ! For each new search, the "graph.png" and "matrix.csv" files will be
+overwritten... :/
+
+The "odjo" directory contains the program.
+The "xml" directory contains XML files for the requests to the rcsb server.
+
+COMPLEMENTARY INFORMATIONS :
+The "list.txt" and "bcl2_family.txt" are here to allow you test the program.
+The Bio.PDB module always create a new "obsolete"... :/
+The "rapport.pdf" file is the report.

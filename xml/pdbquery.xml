@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orgPdbQuery>
+	<version>B0907</version>
+	<queryType>org.pdb.query.simple.UpAccessionIdQuery</queryType>
+	<description>M2BIBS ITPP project : query for a list of Uniprot Accession IDs</description>
+	<accessionIdList></accessionIdList>
+</orgPdbQuery>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orgPdbQuery>
+	<version>head</version>
+	<queryType>org.pdb.query.simple.PfamIdQuery</queryType>
+	<description>M2BIBS ITPP project : query for a Pfam Accession Number</description>
+	<pfamID></pfamID>
+</orgPdbQuery>
